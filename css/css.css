@@ -1,0 +1,55 @@
+﻿/*https://images.app.goo.gl/EhEiXBRQTPxnqXrY8*/
+/*
+background-image: url(/images/fire.jpg);
+
+https://www.abc.net.au/news/2020-01-08/misleading-fire-maps-go-viral-during-australian-bushfire-crisis/11850948
+
+*/
+
+body {
+	background-color: #FFFFFF;
+	color: #003366;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+	background-color: #003366;
+	color: #AEC3E3;
+	font-family: Georgia, Times New Roman;	
+}
+
+h1 {
+	line-height: 200%;
+	text-indent: 1em;
+}
+
+nav {
+	 font-weight: bold;
+}
+
+dt {
+	color: #5280C5;
+	font-size: 1.1em;
+	font-weight: bold;
+	font-family: Georgia, Times New Roman;
+}
+
+.source {
+	font-weight: bold;
+	color: #5380C5;
+	font-family: Georgia, Times New Roman;
+	text-decoration:underline
+}
+
+footer {
+	font-size: .70em;
+	font-style: italic;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+	background-color: #F0F0F0;
+
+}

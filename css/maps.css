@@ -1,0 +1,15 @@
+﻿tr:nth-of-type(even) {
+	background-color:#eaeaea;
+}
+
+th {
+	text-decoration:underline;
+}
+
+.firemap {
+	display:block; 
+	margin-left:auto; 
+	margin-right:auto; 
+	width:50%;
+	border:thick;
+}
